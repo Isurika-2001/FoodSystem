@@ -1,0 +1,14 @@
+Fri Jun 03 10:26:54 IST 2022 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Jun 03 10:26:57 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-27ec-69c6-00005f237a6f 
+on database directory D:\APIIT\Lectures, Tutorials , Libry & Others\SDAM\sem 2\Assignment\individual\FoodOrderingSystem\databaseLocation\Test with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/D:/APIIT/Lectures,%20Tutorials%20,%20Libry%20&%20Others/SDAM/sem%202/Assignment/individual/FoodOrderingSystem/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=D:\APIIT\Lectures, Tutorials , Libry & Others\SDAM\sem 2\Assignment\individual\FoodOrderingSystem\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\APIIT\Lectures, Tutorials , Libry & Others\SDAM\sem 2\Assignment\individual\FoodOrderingSystem\databaseLocation
+Database Class Loader started - derby.database.classpath=''
